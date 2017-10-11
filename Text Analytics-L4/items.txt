@@ -1,22 +1,10 @@
 It’s tempting to jump straight into mining, but first, we need to get the data ready. This involves having a closer look at attributes and data values. 
-
 Real-world data are typically noisy, enormous in volume (often several gigabytes or more), and may originate from a hodge-podge of heterogenous sources. 
-
 This chapter is about getting familiar with your data. Knowledge about your data is useful for data preprocessing (see Chapter 3), the first major task of the data mining process. 
-
 You will want to know the following: What are the types of attributes or fields that make up your data? What kind of values does each attribute have? 
-
 Which attributes are discrete, and which are continuous-valued? What do the data look like? How are the values distributed? 
-
 Are there ways we can visualize the data to get a better sense of it all? Can we spot any outliers? Can we measure the similarity of some data objects with respect to others? 
-
 Gaining such insight into the data will help with the subsequent analysis.
-
-“So what can we learn about our data that’s helpful in data preprocessing?” We begin in Section 2.1 by studying the various attribute types. 
-
+“So what can we learn about our data that’s helpful in data preprocessing?” We begin in Section 2.1 by studying the various attribute types.
 These include nominal attributes, binary attributes, ordinal attributes, and numeric attributes. Basic statistical descriptions can be used to learn more about each attribute’s values, as described in Section 2.2. 
-
 Given a temperature attribute, for example, we can determine its mean (average value), median (middle value), and mode (most common value). 
-
-These are measures of central tendency, which give us an idea of the “middle” or center of distribution.
-
