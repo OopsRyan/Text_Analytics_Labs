@@ -1,7 +1,7 @@
-# Text_Analytics_Labs
+# Text Analytics Labs
 
 Upload works of text analytics labs.
----
+
 ## Content 
 ### Lab4 - Beyond Frequencies 
 * TF-IDF
@@ -9,11 +9,14 @@ Upload works of text analytics labs.
 * Entropy
 
 ### Lab5 - Similarity 
-* Jaccard-Index  => Jaccard-Distance
+* Jaccard-Index  =>  Jaccard-Distance
 * Dice Coefficiency
 * Cosine Similarity
 * Euclidean Distance
-* Edit Distance => compare tweets to find spam tweet
+* Edit Distance  =>  compare tweets to find spam tweet
 
 ### Lab6 - Classification
-* 
+* k-NN  =>  Iris data set
+* cross validation  =>  5 fold cross validation for k-NN
+* Naive Bayes  =>  train with nltk name corpus based on the last letter in the name
+* SVMs  =>  digit recognition with sklearn by running different training configurations
