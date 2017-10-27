@@ -20,3 +20,7 @@ Upload works of text analytics labs.
 * Cross validation  =>  5 fold cross validation for k-NN
 * Naive Bayes  =>  train with nltk name corpus based on the last letter in the name
 * SVMs  =>  digit recognition with sklearn by running different training configurations
+
+### Lab7 - Clustering
+* k-Means  => clustering 15 randomly generated points
+* hierarchical clustering
