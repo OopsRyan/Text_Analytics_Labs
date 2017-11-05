@@ -24,3 +24,8 @@ Upload works of text analytics labs.
 ### Lab7 - Clustering
 * k-Means  => clustering 15 randomly generated points
 * hierarchical clustering
+
+### Lab8 - Evaluation
+* Precision, Recall, and F1 Measure
+* ROC curves
+* DET curves
