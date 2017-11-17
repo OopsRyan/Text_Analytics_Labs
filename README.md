@@ -29,3 +29,8 @@ Upload works of text analytics labs.
 * Precision, Recall, and F1 Measure
 * ROC curves
 * DET curves
+
+### Lab9 - Sentimental Identification
+* Cohen's Kappa coefficient => human rating task
+* Pearson's correlation coefficient => human rating task
+* Bromberg's Sentiment Program => training classifier for indentifying positive/negative words
